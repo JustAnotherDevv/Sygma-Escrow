@@ -10,7 +10,7 @@ Functionality:
 
 The project is designed to facilitate cross-chain escrow actions, allowing users to securely transact assets across different blockchain networks. This includes the seamless transfer and management of funds between disparate blockchain environments.
 
-Deployed smart contract ong goerli:
+Deployed smart contract on goerli:
 - Token - 0xA88befbE0afE170018a96517031B02aC3aC81984
 - Smart Escrow - 0x16eaED81011FBC752F4646b7f8eEbf52c0599109
 
